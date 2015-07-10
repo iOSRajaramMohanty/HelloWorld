@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Medication"; ObjectID = "8Tw-SR-rgX"; */
+"8Tw-SR-rgX.normalTitle" = "Medication";
+
+/* Class = "UIButton"; normalTitle = "Submit Button"; ObjectID = "BC9-Dy-pcT"; */
+"BC9-Dy-pcT.normalTitle" = "Submit Button";
+
+/* Class = "UIButton"; normalTitle = "Support"; ObjectID = "OOH-0T-yhu"; */
+"OOH-0T-yhu.normalTitle" = "Support";
+
+/* Class = "UILabel"; text = "Home Screen"; ObjectID = "eDy-dE-7pM"; */
+"eDy-dE-7pM.text" = "Home Screen";
+
+/* Class = "UIButton"; normalTitle = "History"; ObjectID = "zuZ-PX-uAc"; */
+"zuZ-PX-uAc.normalTitle" = "History";
